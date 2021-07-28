@@ -1,0 +1,41 @@
+/* common css */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* header css */
+.header-main {
+  background-color: #264653;
+}
+
+.header-main p {
+  color: #e0e0e0;
+}
+
+.modal-btn {
+  height: 44px;
+  width: 168px;
+  padding: 10px 46px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #e76f51;
+  color: #ffffff;
+}
+
+.login {
+  background-color: #e76f51;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+/* main section */
+.besi-bike-title {
+  color: #e76f51;
+  font-weight: 600;
+}
+
+.filter {
+  filter: grayscale(1);
+}
