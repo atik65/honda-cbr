@@ -39,3 +39,42 @@
 .filter {
   filter: grayscale(1);
 }
+
+.clients span {
+  color: #e76f51;
+}
+
+.star-color {
+  color: #e76f51;
+  padding: 0 4px;
+}
+
+.card img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.faq span,
+.accessories span,
+h5,
+.gallery {
+  color: #e76f51;
+}
+
+.dark {
+  background-color: #000000;
+  cursor: pointer;
+}
+
+.gallery {
+  position: relative;
+}
+
+.underline {
+  position: absolute;
+  left: 47%;
+  height: 2px;
+  width: 5%;
+  background-color: rgb(223, 143, 15);
+}
